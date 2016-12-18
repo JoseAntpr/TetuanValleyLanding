@@ -537,8 +537,8 @@ border-bottom-right-radius: 3px;}
 }
 
 #tetuan{
-	margin-top:34px;
+	margin-top:34px !important;
 }
 #requisitos{
-	padding-top: 0px;
+	padding-top: 0px !important;
 }
