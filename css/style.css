@@ -543,8 +543,8 @@ border-bottom-right-radius: 3px;}
 	padding-top: 0px !important;
 }
 .img-ponentes{
-	height: 242.5%;
-	width: 242.5%;
+	height: 242.5px !important; 
+	width: 242.5px;
 }
 #tetuan {
 	margin-top: 35px;
