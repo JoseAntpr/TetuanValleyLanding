@@ -222,7 +222,7 @@ header[role="header"].header-top hgroup nav ul > li{ float:none; display:inline-
 
 header[role="header"].header-top hgroup nav ul > li > a{ color:#FFF; line-height:29px; padding-bottom:5px; padding-top:0; padding-left:11px; padding-right:12px; border-bottom:3px solid transparent;}
 
-header[role="header"].header-top hgroup nav ul > li:hover a,header[role="header"].header-top hgroup nav ul>li.active a,header[role="header"].header-top hgroup nav ul>li.active:hover a{ border-color:#6bb551; background-color:transparent!important;color:#FFF!important;}
+header[role="header"].header-top hgroup nav ul > li:hover a,header[role="header"].header-top hgroup nav ul>li.active a,header[role="header"].header-top hgroup nav ul>li.active:hover a{ border-color:#eba905; background-color:transparent!important;color:#FFF!important;}
 
 header[role="header"].header-top hgroup nav ul>li>a:focus{color:#FFF;}
 
@@ -252,9 +252,9 @@ header[role="header"].header-top section h2{ font-size:48px; line-height:50px; f
 
 header[role="header"].header-top section p{ font-size:19px; line-height:20px; font-weight:500; padding-top:15px}
 
-header[role="header"].header-top section a.button-header{ display: inline-block; text-align:center; margin:10% auto; line-height:63px; font-size:16px; font-weight:400; padding:0 53px; color:#FFF; background-color:#6bb551; border-radius:4px; text-transform:uppercase}
+header[role="header"].header-top section a.button-header{ display: inline-block; text-align:center; margin:10% auto; line-height:63px; font-size:16px; font-weight:400; padding:0 53px; color:#FFF; background-color:#eba905; border-radius:4px; text-transform:uppercase}
 
-header[role="header"].header-top section a.button-header:hover{background-color:#5ea246; text-decoration:none}
+header[role="header"].header-top section a.button-header:hover{background-color:#eba908; text-decoration:none}
 
 header[role="header"].header-top section a.video-button,.video-pan header a.video-button{ margin:67px auto; margin-bottom:60px; display:block; cursor:pointer; outline:none; background-color:transparent; border:3px solid #FFF; border-radius:100%; width:94px; height:94px; line-height:94px; font-size:60px; text-align:center; color:#FFF;}
 
@@ -296,11 +296,11 @@ header[role="title-page"] h2,header[role="title-page"] h2{ color:#000; font-size
 
 .four-box-pan{ overflow:hidden; padding-top:81px}
 
-.four-box-pan figure{ margin:0 auto; display:block; border-radius:100%; width:98px; height:98px; border:2px solid #6bb551; text-align:center; line-height:98px; color:#6bb551; font-size:40px}
+.four-box-pan figure{ margin:0 auto; display:block; border-radius:100%; width:98px; height:98px; border:2px solid #eba905; text-align:center; line-height:98px; color:#6bb551; font-size:40px}
 
-.four-box-pan section figure i{color:#6bb551}
+.four-box-pan section figure i{color:#eba905}
 
-.four-box-pan section:hover figure{ background-color:#6bb551; color:#FFF}
+.four-box-pan section:hover figure{ background-color:#eba905; color:#FFF}
 
 .four-box-pan section:hover figure i{ color:#FFF}
 
@@ -370,7 +370,7 @@ header[role="title-page"] h2,header[role="title-page"] h2{ color:#000; font-size
 
 /*== Section Three ==*/
 
-.section-three{ background-color:#6bb551; padding-top:87px; padding-bottom:156px}
+.section-three{ background-color:#eba905; padding-top:87px; padding-bottom:156px}
 
 .section-three header[role="title-page"]{ padding-bottom:83px}
 
@@ -410,7 +410,7 @@ transform:scale(1.1);}
 
 /* Team */
 
-.team-pan figure{ padding:5px; border:5px solid #6bb551; overflow:hidden; background-color:#FFF;}
+.team-pan figure{ padding:5px; border:5px solid #eba905; overflow:hidden; background-color:#FFF;}
 
 .team-pan section:hover figure img{webkit-transform:scale(1.1);
 
@@ -428,7 +428,7 @@ transform:scale(1.1); opacity:0.8}
 
 /*== Section Five ==*/
 
-.section-five{ background-color:#6bb551; padding-top:87px; padding-bottom:102px}
+.section-five{ background-color:#eba905; padding-top:87px; padding-bottom:102px}
 
 .section-five header[role="title-page"]{ padding-bottom:49px}
 
@@ -541,4 +541,8 @@ border-bottom-right-radius: 3px;}
 }
 #requisitos{
 	padding-top: 0px !important;
+}
+.img-ponentes{
+	height: 242.5%;
+	width: 242.5%;
 }
