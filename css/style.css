@@ -298,6 +298,8 @@ header[role="title-page"] h2,header[role="title-page"] h2{ color:#000; font-size
 
 .four-box-pan figure{ margin:0 auto; display:block; border-radius:100%; width:98px; height:98px; border:2px solid #eba905; text-align:center; line-height:98px; color:#6bb551; font-size:40px}
 
+.four-box-pan img{ margin:0 auto; display:block; border-radius:100%; width:98px; height:98px; border:2px solid #eba905; text-align:center; line-height:98px; color:#6bb551; font-size:40px}
+
 .four-box-pan section figure i{color:#eba905}
 
 .four-box-pan section:hover figure{ background-color:#eba905; color:#FFF}
@@ -410,7 +412,7 @@ transform:scale(1.1);}
 
 /* Team */
 
-.team-pan figure{ padding:5px; border:5px solid #eba905; overflow:hidden; background-color:#FFF;}
+.team-pan figure{ padding:5px; border:5px solid #eba905; overflow:hidden; background-color:#FFF; margin-top: 10px;}
 
 .team-pan section:hover figure img{webkit-transform:scale(1.1);
 
@@ -476,7 +478,7 @@ border-bottom-right-radius: 3px;}
 
 /*== Section Six ==*/
 
-.section-six{padding-top:15px;}
+.section-six{padding-top:15px; background-color: #eba905;}
 
 .contact-form{ padding-left:184px; padding-right:186px; margin-top:63px; padding-bottom:20px}
 
@@ -543,9 +545,21 @@ border-bottom-right-radius: 3px;}
 	padding-top: 0px !important;
 }
 .img-ponentes{
-	height: 242.5px !important; 
+	height: 242.5px !important;
 	width: 242.5px;
+}
+#image-trusted{
+	height: 100px;
+	max-width: 100%;
 }
 #tetuan {
 	margin-top: 35px;
+}
+.edition{
+	padding-bottom: 0px;
+	background-color: white;
+	margin-bottom: 20px;
+}
+.edition-one{
+	padding-top:30px;
 }
